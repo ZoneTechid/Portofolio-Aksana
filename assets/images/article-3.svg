@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+  <defs>
+    <linearGradient id="abg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1F2937"/>
+      <stop offset="100%" stop-color="#C2884F"/>
+    </linearGradient>
+    <pattern id="hex" width="40" height="34.64" patternUnits="userSpaceOnUse" patternTransform="scale(1.2)">
+  <polygon points="20,0 40,11.55 40,23.09 20,34.64 0,23.09 0,11.55" fill="none" stroke="#F59E0B" stroke-width="1.2" stroke-opacity="0.18"/>
+</pattern>
+  </defs>
+  <rect width="640" height="400" fill="url(#abg3)"/>
+  <rect width="640" height="400" fill="url(#hex)"/>
+  <circle cx="520" cy="90" r="130" fill="#FDE68A" opacity="0.16"/>
+  <circle cx="120" cy="320" r="150" fill="#FFFFFF" opacity="0.08"/>
+  <g transform="translate(260,85)">
+    <polygon points="60,0 120,35 120,105 60,140 0,105 0,35" fill="#FEF3C7" opacity="0.92"/>
+    <polygon points="60,15 106,42 106,98 60,125 14,98 14,42" fill="none" stroke="#D97706" stroke-width="3"/>
+    <path d="M60,42 Q82,75 60,96 Q38,75 60,42 Z" fill="#D97706"/>
+  </g>
+  <text x="320" y="285" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="24" fill="#FFFFFF">Madu Hutan vs Ternak</text>
+  <text x="320" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#FDE68A">EDUKASI &amp; STANDAR MUTU MADU NUSANTARA</text>
+</svg>

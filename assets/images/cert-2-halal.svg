@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420">
+  <rect width="600" height="420" rx="16" fill="#ECFDF5" stroke="#10B981" stroke-width="8"/>
+  <rect x="18" y="18" width="564" height="384" rx="10" fill="none" stroke="#065F46" stroke-width="2" stroke-dasharray="8,6"/>
+  <rect x="40" y="38" width="520" height="54" rx="8" fill="#065F46"/>
+  <text x="300" y="72" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="20" fill="#FFFFFF">SERTIFIKAT HALAL INDONESIA</text>
+  <circle cx="300" cy="175" r="52" fill="#10B981" opacity="0.18"/>
+  <circle cx="300" cy="175" r="40" fill="#065F46"/>
+  <path d="M282,175 L295,188 L320,162" stroke="#A7F3D0" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="300" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1F2937">BPJPH / LPPOM • ID32110001928370524</text>
+  <line x1="140" y1="286" x2="460" y2="286" stroke="#10B981" stroke-width="2"/>
+  <rect x="160" y="305" width="280" height="36" rx="18" fill="#10B981"/>
+  <text x="300" y="328" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="13" fill="#FFFFFF">TERJAMIN HALAL &amp; THAYYIB</text>
+  <text x="300" y="372" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#6B7280">Badan Penyelenggara Jaminan Produk Halal RI</text>
+</svg>

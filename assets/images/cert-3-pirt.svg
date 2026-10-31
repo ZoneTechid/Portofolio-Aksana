@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420">
+  <rect width="600" height="420" rx="16" fill="#FFFBEB" stroke="#F59E0B" stroke-width="8"/>
+  <rect x="18" y="18" width="564" height="384" rx="10" fill="none" stroke="#78350F" stroke-width="2" stroke-dasharray="8,6"/>
+  <rect x="40" y="38" width="520" height="54" rx="8" fill="#78350F"/>
+  <text x="300" y="72" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="20" fill="#FFFFFF">IZIN EDAR DINKES P-IRT</text>
+  <circle cx="300" cy="175" r="52" fill="#F59E0B" opacity="0.18"/>
+  <circle cx="300" cy="175" r="40" fill="#78350F"/>
+  <path d="M282,175 L295,188 L320,162" stroke="#FDE68A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="300" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1F2937">SPP-IRT NO. 2093271010888-26</text>
+  <line x1="140" y1="286" x2="460" y2="286" stroke="#F59E0B" stroke-width="2"/>
+  <rect x="160" y="305" width="280" height="36" rx="18" fill="#B45309"/>
+  <text x="300" y="328" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="13" fill="#FFFFFF">STANDAR HIGIENIS PANGAN UMKM</text>
+  <text x="300" y="372" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#6B7280">Dinas Kesehatan &amp; Pengawasan Pangan Daerah</text>
+</svg>

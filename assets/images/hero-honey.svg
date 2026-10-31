@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#143632"/>
+      <stop offset="50%" stop-color="#1E4D47"/>
+      <stop offset="100%" stop-color="#3B2313"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#D97706" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="50%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#B45309"/>
+    </linearGradient>
+    <pattern id="hex" width="40" height="34.64" patternUnits="userSpaceOnUse" patternTransform="scale(1.2)">
+  <polygon points="20,0 40,11.55 40,23.09 20,34.64 0,23.09 0,11.55" fill="none" stroke="#F59E0B" stroke-width="1.2" stroke-opacity="0.18"/>
+</pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#hex)"/>
+  <circle cx="800" cy="420" r="550" fill="url(#glow)"/>
+  <!-- Decorative Golden Honey Ripples & Comb -->
+  <g opacity="0.25" transform="translate(150,120)">
+    <polygon points="120,0 240,70 240,210 120,280 0,210 0,70" fill="url(#gold)"/>
+    <polygon points="370,145 490,215 490,355 370,425 250,355 250,215" fill="url(#gold)"/>
+    <polygon points="120,295 240,365 240,505 120,575 0,505 0,365" fill="none" stroke="url(#gold)" stroke-width="6"/>
+  </g>
+  <g opacity="0.25" transform="translate(1050,180)">
+    <polygon points="120,0 240,70 240,210 120,280 0,210 0,70" fill="none" stroke="url(#gold)" stroke-width="6"/>
+    <polygon points="260,220 380,290 380,430 260,500 140,430 140,290" fill="url(#gold)"/>
+  </g>
+  <!-- Honey Drips -->
+  <path d="M0,0 L1600,0 L1600,70 Q1480,140 1420,65 Q1350,15 1290,95 Q1230,175 1170,70 Q1080,10 1020,110 Q960,210 890,80 Q800,10 720,90 Q640,170 570,65 Q480,5 410,120 Q340,220 270,80 Q190,10 110,95 Q50,150 0,60 Z" fill="url(#gold)" opacity="0.22"/>
+</svg>
